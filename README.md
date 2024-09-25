@@ -16,15 +16,8 @@ Mais um desafio concluído com sucesso! Esse é o primeiro desafio do stage 6 - 
 
 Também aprendi a criar um servidor local simples com NodeJs.
 
-
-[🔗 Clique aqui para acessar](https://filipesantos07.github.io/Projeto-SPA-Universe/)
-
 ## 🛠️ Tecnologias
 
 - HTML
 - CSS
 - JavaScript
-
-## 💛 Contato
-
-FilipeSantosEstudos1@gmail.com
